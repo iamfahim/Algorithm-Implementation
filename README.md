@@ -1,2 +1,6 @@
-# Algorithm-Implementation
-I will try to implement algorithm with c & c++ language.
+# Algorithm && Data Structue ->Implementation by
+Mohimenol Islam Fahim
+mislamfahim@gmail.com
+Dept. of Computer Science and Telecommunication Engineering,
+Noakhali Science & Technology University
+
