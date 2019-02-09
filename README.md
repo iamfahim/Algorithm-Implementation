@@ -1,6 +1,9 @@
 # Algorithm && Data Structue ->Implementation by
-Mohimenol Islam Fahim\n
-mislamfahim@gmail.com\n
-Dept. of Computer Science and Telecommunication Engineering,\n
+Mohimenol Islam Fahim
+
+mislamfahim@gmail.com
+
+Dept. of Computer Science and Telecommunication Engineering,
+
 Noakhali Science & Technology University.
 
