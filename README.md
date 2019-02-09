@@ -1,4 +1,4 @@
-# Algorithm && Data Structue ->Implementation by
+# Algorithm && Data Structue ->Implemented by
 Mohimenol Islam Fahim
 
 mislamfahim@gmail.com
